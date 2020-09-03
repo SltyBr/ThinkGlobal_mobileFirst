@@ -1,0 +1,15 @@
+{
+  "name": "thinkglobal_mobilefirst",
+  "version": "1.0.0",
+  "description": "mobile first layout",
+  "main": "index.js",
+  "dependencies": {
+    "slick-slider": "^1.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
